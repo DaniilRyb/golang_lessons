@@ -18,7 +18,6 @@ func main() {
 	e = 101
 	f := "f"
 	g := true
-	//fff := false
 
 	fmt.Printf("%T - %v\n", e, e)
 	fmt.Printf("%T - %v\n", f, f)
